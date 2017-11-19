@@ -10,6 +10,8 @@
     "no-underscore-dangle": "off",
     "function-paren-newline": "off",
     "react/prefer-stateless-function": "off",
-    "react/jsx-filename-extension": "off"
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "off",
+    "class-methods-use-this": "off"
   }
 }
