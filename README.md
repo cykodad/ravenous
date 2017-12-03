@@ -1,2 +1,1 @@
-Ravenous - a Yelp clone for dummies
-===================================
+# Ravenous - a Yelp clone for dummies

@@ -12,6 +12,14 @@
     "react/prefer-stateless-function": "off",
     "react/jsx-filename-extension": "off",
     "react/prop-types": "off",
-    "class-methods-use-this": "off"
+    "class-methods-use-this": "off",
+    "import/no-named-as-default": "off",
+    "import/no-named-as-default-member": "off"
+  },
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "fetch": true
   }
 }
